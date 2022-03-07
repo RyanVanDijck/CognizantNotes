@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataWarehousing/Concepts.md",
+            "file": "Quizes/Data_Warehouses/DataWarehouses.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataWarehousing/Concepts.md",
+                "file": "Quizes/Data_Warehouses/DataWarehouses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "245a7bf14c2b96e3",
   "lastOpenFiles": [
+    "Quizes/Data_Warehouses/DataWarehouses.md",
+    "Quizes/Data_Warehouses/Warehouse_Concepts.png",
     "DataWarehousing/Concepts.md",
     "DataWarehousing/DataWarehousing.md",
     "DataWarehousing/Architecture.md",
