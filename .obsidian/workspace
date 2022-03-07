@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a15b3148cba33b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "245a7bf14c2b96e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DataWarehousing/Concepts.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29d63fb6acfe40aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bca46639d660237f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c59a5e615abc072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "615da3c38ac14230",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a92e62b89fcfb26f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5cf2c920b6065a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78959fdfc52e8a0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DataWarehousing/Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "245a7bf14c2b96e3",
+  "lastOpenFiles": [
+    "DataWarehousing/Concepts.md",
+    "DataWarehousing/DataWarehousing.md",
+    "DataWarehousing/Architecture.md",
+    "README.md",
+    "Quizes/Quizes.md.md"
+  ]
+}
