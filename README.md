@@ -1,5 +1,5 @@
 # Cognizant Notes
 
 ## Data Warehousing 
-[Data Warehousing](/DataWarehousing/DataWareHousing.md)
+[Data Warehousing](/DataWarehousing/DataWarehousing.md)
 
