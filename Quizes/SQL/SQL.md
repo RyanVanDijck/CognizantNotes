@@ -21,7 +21,7 @@ WHERE
 ### Answer
 `1841`
 
-### Chapter 15 - Exercise 3 
+## Chapter 15 - Exercise 3 
 ### Solution
 ```SQL
 SELECT COUNT(*)
