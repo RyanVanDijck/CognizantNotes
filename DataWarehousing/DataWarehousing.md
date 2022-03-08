@@ -14,7 +14,7 @@
 ## Concepts 
 [Concepts](./Concepts.md)
 ## Architecture
-[Architecture](./Architecture)
+[Architecture](./Architecture.md)
 
 
 
