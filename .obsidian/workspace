@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataWarehousing/Architecture.md",
-            "mode": "source"
+            "file": "Quizes/SQL/SQL.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataWarehousing/Architecture.md",
+                "file": "Quizes/SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +89,15 @@
   },
   "active": "b31e7f59c3615658",
   "lastOpenFiles": [
+    "Quizes/SQL/SQL.md",
     "DataWarehousing/Architecture.md",
+    "Quizes/Data_Warehouses/DataWarehouses.md",
+    "GDPR/GDPR.md",
     "DataWarehousing/DataWarehousing.md",
     "DataWarehousing/Concepts.md",
-    "Quizes/Data_Warehouses/DataWarehouses.md",
-    "README.md",
-    "Quizes/Quizes.md",
+    "DataWarehousing/Architecture.png",
     "Quizes/Data_Warehouses/Warehouse_Concepts.png",
-    "Quizes/Quizes.md.md"
+    "SQL/SQL.md",
+    "Quizes/Quizes.md"
   ]
 }

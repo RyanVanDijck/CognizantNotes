@@ -45,7 +45,8 @@ Some difficulties have been:
 |Possibly large data volumes|Possibly large data volumes|
 |Dimensionally organised data|Dimensionally organised data|
 
-## 
+## Which approach is the best fit? 
+![Image of Selection Chart](./Architecture.png)
 
 
 
