@@ -269,3 +269,20 @@ There are 3 types of relations in SQL:
 #### Many to Many 
 ![Diagram of Many to Many relationship](./ManyToMany.png)
 
+## Null values
+Find entries with no avatar url. 
+```SQL
+SELECT *
+FROM profiles
+WHERE
+  avatar_url IS NULL
+```
+
+Find entries with an avatar url. 
+```SQL
+SELECT *
+FROM profiles
+WHERE
+  interests IS NOT NULL
+```
+
