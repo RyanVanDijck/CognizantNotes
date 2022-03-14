@@ -54,3 +54,11 @@
 2. In-place update.
 3. Complete Replacement.
 4. Rolling append.
+
+## Common Transformation models
+* Data value unification
+* Data type and size unification
+* De-duplication
+* Dropping columns(Vertical slicing)
+* Value-based row filtering(horizontal slicing)
+* Correcting known errors 
