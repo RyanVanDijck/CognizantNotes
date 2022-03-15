@@ -14,10 +14,13 @@
 ## Concepts 
 [Concepts](./Concepts.md)
 ## Architecture
-[Architecture](./Architecture.md)
+[Architecture](./Architecture/Architecture.md)
 
 ## ETL
 [ETL](./ETL.md)
+
+## Design Engineering
+[Design Engineering](./DesignEngineering/DesignEngineering.md)
 
 
 
