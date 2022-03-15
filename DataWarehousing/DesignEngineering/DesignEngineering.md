@@ -105,7 +105,8 @@ In data warehouses:
 
 ##### Snowflake Schema 
 * Each dimension has it's own dimension table. 
-</br>
+
+
 ![Diagram of Snowflake Schema](./SnowflakeSchema.png)
 
 
