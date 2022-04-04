@@ -11,16 +11,20 @@
 * Takes advantage of new technology to provide greater value
 * Important among a large number of departments in a company. 
 
-## Concepts 
-[Concepts](./Concepts.md)
-## Architecture
-[Architecture](./Architecture/Architecture.md)
+## [Concepts](./Concepts.md)
 
-## ETL
-[ETL](./ETL.md)
+## [Architecture](./Architecture/Architecture.md)
 
-## Design Engineering
-[Design Engineering](./DesignEngineering/DesignEngineering.md)
+## [ETL](./ETL.md)
+
+
+## [Design Engineering](./DesignEngineering/DesignEngineering.md)
+
+
+## [Dimensional Modelling](./DimensionalModelling/DimensionalModelling.md)
+
+
+
 
 
 
