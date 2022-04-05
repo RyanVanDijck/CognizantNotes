@@ -63,7 +63,7 @@
 
 * Each service falls in a certain category. 
 
-![Category Image](./category.png)
+![Category Image](./Images/category.png)
 
 * The service you select depends on your buisness goals and technology requirements. 
 
@@ -92,7 +92,7 @@
 
 CAF is organized into six perspectives: 
 
-![Table of Perspectives](./perspectives.png)
+![Table of Perspectives](./Images/perspectives.png)
 
 * Perspectives can cut across people, processes and technologies. 
 
