@@ -4,7 +4,7 @@
 
 ### Three Fundamental Drivers of cost with AWS 
 #### <span style = "color:blue">Compute</span> 
-* Charged per hour/second(Linux Only).
+* Charged per hour/second.
 * Varies by instance type.
 #### <span style = "color:teal">Storage</span>
 * Charged Typically per GB 
